@@ -1,0 +1,10 @@
+	//Make knuckles fall if detached
+	if(!ground)
+	{
+		state = ST_KNUXFALL;	
+	}
+	
+		else
+	{
+		animation_play(animator, ANIM_KNUXCLIMBIDLE);	
+	}

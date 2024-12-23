@@ -1,0 +1,11 @@
+{
+  "$GMNotes":"",
+  "%Name":"Changelogs",
+  "name":"Changelogs",
+  "parent":{
+    "name":"SonicStars_HP_3-0",
+    "path":"SonicStars_HP_3-0.yyp",
+  },
+  "resourceType":"GMNotes",
+  "resourceVersion":"2.0",
+}
